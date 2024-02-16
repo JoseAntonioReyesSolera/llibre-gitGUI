@@ -4,3 +4,7 @@ correo:
 JoseAntonioReyes@paucasesnovescifp.cat
 
 
+nombre:
+Pau Debionne Ferrer
+correo:
+Paudebionne@paucasesnovescifp.cat
