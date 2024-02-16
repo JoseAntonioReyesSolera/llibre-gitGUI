@@ -1,0 +1,6 @@
+nombre:
+Jose Antonio Reyes Solera
+correo:
+JoseAntonioReyes@paucasesnovescifp.cat
+
+
